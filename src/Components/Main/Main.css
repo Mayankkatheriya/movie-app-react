@@ -2,7 +2,9 @@ main {
     padding: 2rem 4rem;
     display: flex;
     flex-direction: column;
-    gap: 2rem;
+    align-items: center;
+    gap: 3rem;
+    background-color: #000;
 }
 
 @media screen and (max-width: 475px) {

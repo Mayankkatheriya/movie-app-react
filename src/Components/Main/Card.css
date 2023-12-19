@@ -1,5 +1,5 @@
 .card {
-  width: 100%;
+  width: 80%;
   border-radius: 1rem;
   background-repeat: no-repeat;
   background-position: right center;
@@ -8,23 +8,8 @@
   cursor: pointer;
   position: relative;
   z-index: 10;
-  filter: drop-shadow(0 0 0.75rem rgb(243, 119, 144));
+  filter: drop-shadow(0 0 0.75rem rgb(255, 21, 68));
 }
-
-/* .card::after {
-    content: "";
-    background: inherit;
-    position: absolute;
-    top: 8px;
-    left: 50%;
-    width: 95%;
-    height: 100%;
-    z-index: -1;
-     transform: translateZ(-100px) translateX(-50%);
-    filter: blur(6px);
-      border-radius: 1rem;
-} */
-
 .info {
   border-radius: 1rem;
     background: linear-gradient(
