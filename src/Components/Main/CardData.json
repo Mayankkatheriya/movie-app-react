@@ -1,82 +1,93 @@
 [
     {
-        "title" : "Leila`s Brothers",
-        "desc" : "As her brothers are having financial difficulties, Leila, who has dedicated her entire life to taking care of her family, devises a strategy.",
-        "dels" : "2h 45m • Drama • 13+",
-        "lang" : "Persian",
-        "poster" : "https://assets-in.bmscdn.com/discovery-catalog/events/et00378647-agyrwmjlmd-portrait.jpg",
-        "banner" : "https://assets-in.bmscdn.com/discovery-catalog/events/et00378647-gfzclqmdyw-horizontal_poster_still.jpg"
+      "title": "Leila`s Brothers",
+      "desc": "As her brothers are having financial difficulties, Leila, who has dedicated her entire life to taking care of her family, devises a strategy.",
+      "dels": "2h 45m • Drama • 13+",
+      "lang": "Persian",
+      "poster": "https://assets-in.bmscdn.com/discovery-catalog/events/et00378647-agyrwmjlmd-portrait.jpg",
+      "banner": "https://assets-in.bmscdn.com/discovery-catalog/events/et00378647-gfzclqmdyw-horizontal_poster_still.jpg",
+      "color": "#ff0000"
     },
     {
-        "title" : "Killers of the Flower Moon",
-        "desc" : "Based on a true story and told through the improbable romance of Ernest Burkhart (Leonardo DiCaprio) and Mollie Kyle (Lily Gladstone), 'Killers of the Flower Moon' is an epic western crime saga, where real love crosses paths with unspeakable betrayal.",
-        "dels" : "3h 26m • Crime, Drama, Historical • A",
-        "lang" : "English",
-        "poster" : "https://assets-in.bmscdn.com/discovery-catalog/events/et00365290-bbdctdglds-portrait.jpg",
-        "banner" : "https://assets-in.bmscdn.com/discovery-catalog/events/et00365290-rfrcafezrr-horizontal_poster_still.jpg"
+      "title": "Killers of the Flower Moon",
+      "desc": "Based on a true story and told through the improbable romance of Ernest Burkhart (Leonardo DiCaprio) and Mollie Kyle (Lily Gladstone), 'Killers of the Flower Moon' is an epic western crime saga, where real love crosses paths with unspeakable betrayal.",
+      "dels": "3h 26m • Crime, Drama, Historical • A",
+      "lang": "English",
+      "poster": "https://assets-in.bmscdn.com/discovery-catalog/events/et00365290-bbdctdglds-portrait.jpg",
+      "banner": "https://assets-in.bmscdn.com/discovery-catalog/events/et00365290-rfrcafezrr-horizontal_poster_still.jpg",
+      "color": "#008000"
     },
     {
-        "title" : "Dhoomam",
-        "desc" : "An edge of the seat thriller with dramatic sequences that challenge the realities we have silently accepted.",
-        "dels" : "2h 23m • Drama, Thriller • UA",
-        "lang" : "Malayalam",
-        "poster" : "https://assets-in.bmscdn.com/discovery-catalog/events/et00341470-xxxdwqrpsm-portrait.jpg",
-        "banner" : "https://assets-in.bmscdn.com/discovery-catalog/events/et00341470-fqmnmpmpbw-horizontal_poster_still.jpg"
+      "title": "Dhoomam",
+      "desc": "An edge of the seat thriller with dramatic sequences that challenge the realities we have silently accepted.",
+      "dels": "2h 23m • Drama, Thriller • UA",
+      "lang": "Malayalam",
+      "poster": "https://assets-in.bmscdn.com/discovery-catalog/events/et00341470-xxxdwqrpsm-portrait.jpg",
+      "banner": "https://assets-in.bmscdn.com/discovery-catalog/events/et00341470-fqmnmpmpbw-horizontal_poster_still.jpg",
+      "color": "#ffff00"
     },
     {
-        "title" : "Oppenheimer",
-        "desc" : "Bookmyshow Stream Runtime: 3h 3 mins The film is based on the Pulitzer Prize-winning book American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer by Kai Bird and the late Martin J. Sherwin.",
-        "dels" : "3h 10m • Biography, Drama, Historical • UA",
-        "lang" : "English",
-        "poster" : "https://assets-in.bmscdn.com/discovery-catalog/events/et00347867-ktwwhqlaas-portrait.jpg",
-        "banner" : "https://assets-in.bmscdn.com/discovery-catalog/events/et00347867-ckrkujajcd-horizontal_poster_still.jpg"
+      "title": "Oppenheimer",
+      "desc": "Bookmyshow Stream Runtime: 3h 3 mins The film is based on the Pulitzer Prize-winning book American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer by Kai Bird and the late Martin J. Sherwin.",
+      "dels": "3h 10m • Biography, Drama, Historical • UA",
+      "lang": "English",
+      "poster": "https://assets-in.bmscdn.com/discovery-catalog/events/et00347867-ktwwhqlaas-portrait.jpg",
+      "banner": "https://assets-in.bmscdn.com/discovery-catalog/events/et00347867-ckrkujajcd-horizontal_poster_still.jpg",
+      "color": "#ff69b4"
     },
     {
-        "title" : "Dumb Money",
-        "desc" : "Dumb Money is the ultimate David vs. Goliath tale, based on the insane true story of everyday people who flipped the script on Wall Street and got rich by turning GameStop (yes, the mall videogame store) into the world's hottest company",
-        "dels" : "1h 47m • Biography, Comedy, Drama • A",
-        "lang" : "English",
-        "poster" : "https://assets-in.bmscdn.com/discovery-catalog/events/et00365336-nnkdfstwqb-portrait.jpg",
-        "banner" : "https://assets-in.bmscdn.com/discovery-catalog/events/et00365336-texxysgjkn-horizontal_poster_still.jpg"
+      "title": "Dumb Money",
+      "desc": "Dumb Money is the ultimate David vs. Goliath tale, based on the insane true story of everyday people who flipped the script on Wall Street and got rich by turning GameStop (yes, the mall videogame store) into the world's hottest company",
+      "dels": "1h 47m • Biography, Comedy, Drama • A",
+      "lang": "English",
+      "poster": "https://assets-in.bmscdn.com/discovery-catalog/events/et00365336-nnkdfstwqb-portrait.jpg",
+      "banner": "https://assets-in.bmscdn.com/discovery-catalog/events/et00365336-texxysgjkn-horizontal_poster_still.jpg",
+      "color": "#0000ff"
     },
     {
-        "title" : "Corner Office",
-        "desc" : "As Orson, The Authority's newest employee, finds himself trapped in the absurdities of corporate life, his alienation deepens when he discovers a room he's told doesn't exist",
-        "dels" : "1h 41m • Comedy, Drama • 16+",
-        "lang" : "English",
-        "poster" : "https://assets-in.bmscdn.com/discovery-catalog/events/et00377289-vrkwzfvnua-portrait.jpg",
-        "banner" : "https://assets-in.bmscdn.com/discovery-catalog/events/et00377289-jfbgwasabk-horizontal_poster_still.jpg"
+      "title": "Corner Office",
+      "desc": "As Orson, The Authority's newest employee, finds himself trapped in the absurdities of corporate life, his alienation deepens when he discovers a room he's told doesn't exist",
+      "dels": "1h 41m • Comedy, Drama • 16+",
+      "lang": "English",
+      "poster": "https://assets-in.bmscdn.com/discovery-catalog/events/et00377289-vrkwzfvnua-portrait.jpg",
+      "banner": "https://assets-in.bmscdn.com/discovery-catalog/events/et00377289-jfbgwasabk-horizontal_poster_still.jpg",
+      "color": "#ffa500"
     },
     {
-        "title" : "Meg 2: The Trench",
-        "desc" : "Dive into uncharted waters with Jason Statham and global action icon Wu Jing as they lead a daring research team on an exploratory dive into the deepest depths of the ocean. Pitted against colossal Megs and relentless environmental plunderers, our heroes must outrun, outsmart, and outswim their merciless predators in a pulse-pounding race against time.",
-        "dels" : "1h 56m • Action, Adventure, Sci-Fi • UA",
-        "lang" : "English",
-        "poster" : "https://assets-in.bmscdn.com/discovery-catalog/events/et00358316-pwkgbmmuxn-portrait.jpg",
-        "banner" : "https://assets-in.bmscdn.com/discovery-catalog/events/et00358316-acxspxhfqm-horizontal_poster_still.jpg"
+      "title": "Meg 2: The Trench",
+      "desc": "Dive into uncharted waters with Jason Statham and global action icon Wu Jing as they lead a daring research team on an exploratory dive into the deepest depths of the ocean. Pitted against colossal Megs and relentless environmental plunderers, our heroes must outrun, outsmart, and outswim their merciless predators in a pulse-pounding race against time.",
+      "dels": "1h 56m • Action, Adventure, Sci-Fi • UA",
+      "lang": "English",
+      "poster": "https://assets-in.bmscdn.com/discovery-catalog/events/et00358316-pwkgbmmuxn-portrait.jpg",
+      "banner": "https://assets-in.bmscdn.com/discovery-catalog/events/et00358316-acxspxhfqm-horizontal_poster_still.jpg",
+      "color": "#00ced1"
     },
     {
-        "title" : "Barbie",
-        "desc" : "To live in Barbie Land is to be a perfect being in a perfect place. Unless you have a full-on existential crisis. Or you`re a Ken.",
-        "dels" : "1h 54m • Adventure, Comedy, Fantasy • UA",
-        "lang" : "English",
-        "poster" : "https://assets-in.bmscdn.com/discovery-catalog/events/et00072466-tfebpvzkts-portrait.jpg",
-        "banner" : "https://assets-in.bmscdn.com/discovery-catalog/events/et00072466-bmezmvjjph-horizontal_poster_without_logo.jpg"
+      "title": "Barbie",
+      "desc": "To live in Barbie Land is to be a perfect being in a perfect place. Unless you have a full-on existential crisis. Or you`re a Ken.",
+      "dels": "1h 54m • Adventure, Comedy, Fantasy • UA",
+      "lang": "English",
+      "poster": "https://assets-in.bmscdn.com/discovery-catalog/events/et00072466-tfebpvzkts-portrait.jpg",
+      "banner": "https://assets-in.bmscdn.com/discovery-catalog/events/et00072466-bmezmvjjph-horizontal_poster_without_logo.jpg",
+      "color": "#ff4500"
     },
     {
-        "title" : "Five Nights at Freddy`s",
-        "desc" : "A troubled security guard begins working at Freddy Fazbear's Pizzeria. While spending his first night on the job, he realizes the late shift at Freddy's won't be so easy to make it through.",
-        "dels" : "1h 49m • Horror, Thriller • A",
-        "lang" : "English",
-        "poster" : "https://assets-in.bmscdn.com/discovery-catalog/events/et00363275-zzkqjnmzyy-portrait.jpg",
-        "banner" : "https://assets-in.bmscdn.com/discovery-catalog/events/et00363275-zqldmfycfu-horizontal_poster_still.jpg"
+      "title": "Five Nights at Freddy`s",
+      "desc": "A troubled security guard begins working at Freddy Fazbear's Pizzeria. While spending his first night on the job, he realizes the late shift at Freddy's won't be so easy to make it through.",
+      "dels": "1h 49m • Horror, Thriller • A",
+      "lang": "English",
+      "poster": "https://assets-in.bmscdn.com/discovery-catalog/events/et00363275-zzkqjnmzyy-portrait.jpg",
+      "banner": "https://assets-in.bmscdn.com/discovery-catalog/events/et00363275-zqldmfycfu-horizontal_poster_still.jpg",
+      "color": "#004687"
     },
     {
-        "title" : "Gadar 2: The Katha Continues (Tamil & Telugu)",
-        "desc" : "Gadar 2 brings back India`s most loved family of Tara, Sakeena and Jeete; 22 years after its predecessor. Set against the backdrop of Indo-Pakistan war of 1971, Tara Singh, once again, will face every enemy to protect the honor of country and family.",
-        "dels" : "2h 50m • Action, Drama, Period • UA",
-        "lang" : "Telugu",
-        "poster" : "https://assets-in.bmscdn.com/discovery-catalog/events/et00377441-tpeldqsvpv-portrait.jpg",
-        "banner" : "https://assets-in.bmscdn.com/discovery-catalog/events/et00377441-nmqxtrcvba-horizontal_poster_still.jpg"
+      "title": "Gadar 2: The Katha Continues (Tamil & Telugu)",
+      "desc": "Gadar 2 brings back India`s most loved family of Tara, Sakeena and Jeete; 22 years after its predecessor. Set against the backdrop of Indo-Pakistan war of 1971, Tara Singh, once again, will face every enemy to protect the honor of country and family.",
+      "dels": "2h 50m • Action, Drama, Period • UA",
+      "lang": "Telugu",
+      "poster": "https://assets-in.bmscdn.com/discovery-catalog/events/et00377441-tpeldqsvpv-portrait.jpg",
+      "banner": "https://assets-in.bmscdn.com/discovery-catalog/events/et00377441-nmqxtrcvba-horizontal_poster_still.jpg",
+      "color": "#4b0082"
     }
-]
+  ]
+  

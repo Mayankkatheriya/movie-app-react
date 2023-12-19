@@ -32,7 +32,7 @@ const Card = (props) => {
   return (
     <div
       className="card"
-      style={{ backgroundImage: `url(${props.item.banner})` }}
+      style={{ backgroundImage: `url(${props.item.banner})`, filter: `drop-shadow(0 0 0.75rem ${props.item.color})`}}
     >
       <div className="info">
         <div className="container">
